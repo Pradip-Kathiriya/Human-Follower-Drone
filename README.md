@@ -60,26 +60,29 @@ Summary of tasks achieved:
 <div align="center">
 
 
-  <h4 align="center"> Follow Me mode on Drone (X3 Speed)</h4>
+  <h4 align="center"> Follow Me mode [Third Person View] (X2 Speed)</h4>
 
 
 </div>
 
-[https://user-images.githubusercontent.com/90359587/224387441-d45e0f85-1992-43dc-be13-360b4ef2d11c.mp4](https://github.com/KACHAPPILLY2021/Follow_me_ModalAI-m500/assets/90359587/13569a64-39f3-4366-a2b0-342871befb7d)
+https://github.com/KACHAPPILLY2021/Follow_me_ModalAI-m500/assets/90359587/4854b0d6-b7fb-4bac-afd8-fb791195e19c
 
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/VT-2gj4TgY8)
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/Mrs5QI7hDjo)
 
 <div align="center">
 
 
-  <h4 align="center"> Host Computer View (X3 Speed)</h4>
+  <h4 align="center"> Drone Camera Feed (X2 Speed)</h4>
 
 
 </div>
 
-https://github.com/KACHAPPILLY2021/Follow_me_ModalAI-m500/assets/90359587/bead7b87-0798-49b9-9573-17ba9fd01831
+https://github.com/KACHAPPILLY2021/Follow_me_ModalAI-m500/assets/90359587/1a651c36-e390-444c-af42-6b00f9ff9014
 
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/9CFo-q8fig8)
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/0Eks5TVy8hE)
+
+* Edge Case - Multiple Person in frame. [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/nzI1RD64oh8)
+* Edge Case - Person running.  [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/g9G8exCIuI4)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -88,7 +91,7 @@ https://github.com/KACHAPPILLY2021/Follow_me_ModalAI-m500/assets/90359587/bead7b
 <!-- Document and Reports -->
 ## Report
 
-Detailed decription for this project can be found in this [Report]()
+Detailed decription for this project can be found in this [Report](https://github.com/KACHAPPILLY2021/Follow_me_ModalAI-m500/blob/main/report.pdf)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -153,6 +156,17 @@ For starting ```offboard_mode```. Open 4 terminals and do the following.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+
+
+<!-- CONTACT -->
+## Contact
+
+Jeffin Johny K - [![MAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jeffinjk@umd.edu)
+	
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://kachappilly2021.github.io/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/jeffin-johny-kachappilly-0a8597136)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
